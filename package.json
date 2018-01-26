@@ -1,6 +1,7 @@
 {
   "name": "app",
   "version": "0.1.0",
+  "homepage" : "http://JohnHandley.github.io",
   "private": true,
   "dependencies": {
     "react": "^16.2.0",
